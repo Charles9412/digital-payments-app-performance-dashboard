@@ -32,9 +32,17 @@ Organizations with digital payment apps need a clear view of adoption and operat
 - Lower Adoption States
 
 ## Screenshots
+
+### Dashboard Overview
 ![Dashboard overview](screenshots/01_dashboard_overview.png)
+
+### KPI Summary
 ![KPI summary](screenshots/02_kpi_summary.png)
+
+### Monthly Trends
 ![Monthly trends](screenshots/03_monthly_trends.png)
+
+### Lower Adoption States
 ![Lower adoption states](screenshots/04_lower_adoption_states.png)
 
 ## Tools Used
